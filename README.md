@@ -1,5 +1,5 @@
-<div style="text-align: center">
-   <img src="docs/coo.jpg" alt="logo">
+<div>
+   <img src="docs/coo.jpg" alt="logo" style="display: block;margin: 0 auto">
 
 ----
 
