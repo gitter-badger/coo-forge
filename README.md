@@ -4,4 +4,6 @@
 
 ----
 
+[![Join the chat at https://gitter.im/bloodycooer/coo-forge](https://badges.gitter.im/bloodycooer/coo-forge.svg)](https://gitter.im/bloodycooer/coo-forge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 </div>
