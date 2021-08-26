@@ -1,3 +1,3 @@
-<div style="vertical-align: center">
+<div style="position: center">
 <img src="docs/coo.jpg" alt="logo">
 </div>
