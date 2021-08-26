@@ -1,6 +1,8 @@
 <div align="center">
-<img src="docs/coo.jpg" alt="logo">
 
----
+----
+
+![logo](./docs/coo.jpg)
+![title](./docs/coo.svg)
 
 </div>
