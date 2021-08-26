@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/coo",
+  "1.16.5": {
+    "1.16.5-1.0.0.0-beta1": "This is the first beta version of coo"
+  },
+  "promos": {
+    "1.16.5-latest": "1.16.5-1.0.0.0-beta1",
+    "1.16.5-recommended": "1.16.5-1.0.0.0-beta1"
+  }
+}
