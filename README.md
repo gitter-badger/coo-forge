@@ -1,1 +1,6 @@
-<img src="./docs/coo.jpg" alt="logo"/>
+<div align="center">
+   <img src="docs/coo.jpg" alt="logo">
+
+----
+
+</div>
