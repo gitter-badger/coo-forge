@@ -1,11 +1,4 @@
-<style>
-.head {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-}
-</style>
-<div class="head">
+<div style="display: table-cell;vertical-align: middle;text-align: center">
    <img src="docs/coo.jpg" alt="logo">
 
 ----
