@@ -1,5 +1,5 @@
-<div style="display: table-cell;vertical-align: middle;text-align: center">
-   <img src="docs/coo.jpg" alt="logo">
+<div style="text-align: center;margin: 0 auto">
+   <img src="docs/coo.jpg" alt="logo" style="margin: 0 auto">
 
 ----
 
